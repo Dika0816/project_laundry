@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Laundry App',
+      title: 'Laundry Apps',
       theme: ThemeData(
           primarySwatch: Colors.cyan,
           visualDensity: VisualDensity.adaptivePlatformDensity),
